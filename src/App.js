@@ -1,6 +1,7 @@
 import "./App.css";
 import Form from "react-bootstrap/Form";
 import "bootstrap/dist/css/bootstrap.min.css";
+import React from "react";
 
 // Example of a data array that
 // you might receive from an API
